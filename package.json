@@ -1,10 +1,10 @@
 {
   "name": "gitbook-plugin-hotjar",
   "description": "Hotjar analytics tracking for your gitbook",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
-   "engines": {
-      "gitbook": ">=2.5.1"
+  "engines": {
+    "gitbook": ">=1.0.0"
   },
   "repository": {
     "type": "git",
