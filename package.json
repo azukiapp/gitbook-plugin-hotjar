@@ -23,13 +23,8 @@
   "homepage": "https://github.com/marcusgadbem/gitbook-plugin-hotjar",
   "gitbook": {
     "properties": {
-      "hjdomain": {
-        "type": "string",
-        "title": "Domain for Hotjar Tracking",
-        "required": true
-      },
       "hjid": {
-        "type": "string",
+        "type": "number",
         "title": "Hotjar Analytics ID",
         "required": true
       }
