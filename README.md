@@ -22,7 +22,7 @@ It is simple to set Hotjar analytics ID using the plugins configuration in the b
     "plugins": ["hotjar"],
     "pluginsConfig": {
         "hotjar": {
-            "hjid": "01234567"
+            "hjid": 01234567
         }
     }
 }
