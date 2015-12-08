@@ -1,7 +1,7 @@
 {
   "name": "gitbook-plugin-hotjar",
   "description": "Hotjar analytics tracking for your gitbook",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": "index.js",
   "engines": {
     "gitbook": ">=1.0.0"
@@ -20,5 +20,14 @@
   "bugs": {
     "url": "https://github.com/azukiapp/gitbook-plugin-hotjar/issues"
   },
-  "homepage": "https://github.com/azukiapp/gitbook-plugin-hotjar"
+  "homepage": "https://github.com/azukiapp/gitbook-plugin-hotjar",
+  "gitbook": {
+    "properties": {
+      "hjid": {
+        "type": "number",
+        "title": "Hotjar Analytics ID",
+        "required": true
+      }
+    }
+  }
 }
