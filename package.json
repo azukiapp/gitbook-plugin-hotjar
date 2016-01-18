@@ -26,7 +26,7 @@
       "hjid": {
         "type": "number",
         "title": "Hotjar Analytics ID",
-        "required": true
+        "required": false
       }
     }
   }
