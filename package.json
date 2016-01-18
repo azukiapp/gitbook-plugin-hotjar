@@ -1,7 +1,7 @@
 {
   "name": "gitbook-plugin-hotjar",
   "description": "Hotjar analytics tracking for your gitbook",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "main": "index.js",
   "engines": {
     "gitbook": ">=2.5.0"
